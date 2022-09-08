@@ -1,0 +1,15 @@
+html, body{
+    background-color: chartreuse;
+}
+
+h2{
+    color: darkolivegreen;
+    font-family: cursive;
+}
+
+p{
+    color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:20px;
+}
